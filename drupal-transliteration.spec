@@ -1,6 +1,6 @@
 %define modname		transliteration
 %define drupal_version	7
-%define module_version	3.0
+%define module_version	3.1
 %define version		%{drupal_version}.x.%{module_version}
 %define tarname		%{modname}-%{drupal_version}.x-%{module_version}
 
