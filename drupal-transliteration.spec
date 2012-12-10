@@ -42,3 +42,14 @@ rm -f %{buildroot}%{_var}/www/drupal/modules/%{modname}/*.txt
 %files
 %{_var}/www/drupal/modules/%{modname}
 %doc README.txt
+
+
+%changelog
+* Thu Aug 09 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 7.x.3.1-1
++ Revision: 813304
+- update to 7.x.3.1
+
+* Sat May 12 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 7.x.3.0-1
++ Revision: 798422
+- imported package drupal-transliteration
+
