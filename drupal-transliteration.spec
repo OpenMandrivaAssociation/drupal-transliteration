@@ -7,7 +7,7 @@
 Name:		drupal-%{modname}
 Summary:	Transliteration module for Drupal
 Version:	%{version}
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Networking/WWW
 URL:		https://drupal.org/project/%{modname}
